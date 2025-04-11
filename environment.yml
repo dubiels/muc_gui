@@ -1,0 +1,23 @@
+name: muc
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - matplotlib
+  - numpy
+  - pyserial
+  - scipy
+  - tqdm
+  - imageio
+  - scikit-learn
+  - notebook
+  - statsmodels
+  - jupyterlab
+  - scikit-image
+  - pandas
+  - ipywidgets
+  - statsmodels
+  - seaborn
+  - pip
+  - pip:
+      - tweet-preprocessor
