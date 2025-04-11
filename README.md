@@ -15,4 +15,4 @@
 
 1. In the plot-live-data.py file, change serial_port to the correct plot ("COM3" for windows and "\dev\tty..." on Mac)
 1. Copy .cpp file into Arduino IDE and click "upload"
-2. Close the serial monitor then run Python script in VSCode
+2. Once you see "Done Uploading", close the serial monitor then run Python script in VSCode
