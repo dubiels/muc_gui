@@ -10,3 +10,9 @@
 4. In VS Code, follow these steps:
     - cmd + p + shift and click on "Python: Select Interpreter"
     - Select the muc environment
+
+# Run Code
+
+1. In the plot-live-data.py file, change serial_port to the correct plot ("COM3" for windows and "\dev\tty..." on Mac)
+1. Copy .cpp file into Arduino IDE and click "upload"
+2. Close the serial monitor then run Python script in VSCode
